@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0027-remove-element) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Trie
 |  |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
