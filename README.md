@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1844-replace-all-digits-with-characters](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0344-reverse-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
