@@ -1,5 +1,6 @@
 class Solution {
 public:
+        //DailyQ
     long long maxAlternatingSum(vector<int>& nums) {
         int n = nums.size();
         vector<long long> sqr(n);
