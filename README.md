@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0069-sqrtx) |
+| [0227-basic-calculator-ii](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0509-fibonacci-number](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0022-generate-parentheses) |
+| [0227-basic-calculator-ii](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0344-reverse-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0227-basic-calculator-ii](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
