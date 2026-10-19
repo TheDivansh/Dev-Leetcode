@@ -1,19 +1,14 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        if (x == 0)return x;
-        int first = 1, last = x;
-        while (first <= last) {
-            int mid = first + (last - first) / 2;
-            if (mid  == x / mid)
-                return mid;
-            else if (mid > x / mid) {
-                last = mid - 1;
-            }
-            else {
-                first = mid + 1;
-            }
-        }
-        return last;
+        if(x <= 1) return x;
+        int low = 1;
+        int high = x / 2;
+        while(low <= high){
+            int middle = low + (high - low) / 2;
+            if(middle > x / middle){high = middle - 1;}
+            else{low = middle + 1;}
+        } 
+        return low - 1;
     }
 };
