@@ -1,5 +1,7 @@
 class Solution {
 public:
+        //Brute Force
+        //Learn Optimal 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<vector<int>>> uc(target + 1);
         uc[0].push_back(vector<int>());
