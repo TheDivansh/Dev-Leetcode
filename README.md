@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0268-missing-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Tree
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Newton's Method
 |  |
 | ------- |
