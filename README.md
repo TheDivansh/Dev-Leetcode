@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Trie
 |  |
 | ------- |
@@ -188,4 +189,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1254-number-of-closed-islands) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
