@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Trie
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3925-concatenate-array-with-reverse](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
