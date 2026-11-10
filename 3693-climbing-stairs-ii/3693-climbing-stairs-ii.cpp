@@ -1,17 +1,17 @@
 class Solution {
 public:
-        //Daily Q
-    int climbStairs(int n, vector<int>& costs) {
-        vector<int> dp(n + 1, 0);
-
+        //More Opti
+    int climbStairs(int n, vector<int>& cost) {
+        vector<int> dp(n + 1, INT_MAX / 2);
+        dp[0] = 0;
         for(int i = 1; i <= n; i++) {
-            int minCost = INT_MAX;
-
-            for(int j = max(0, i - 3); j < i; j++) {
-                minCost = min(minCost, dp[j] + (i - j) * (i - j) + costs[i - 1]);
+            dp[i] = min(dp[i], dp[i - 1] + cost[i - 1] + 1);
+            if(i >= 2) {
+                dp[i] = min(dp[i], dp[i - 2] + cost[i - 1] + 4);
             }
-
-            dp[i] = minCost;
+            if(i >= 3) {
+                dp[i] = min(dp[i], dp[i - 3] + cost[i - 1] + 9);
+            }
         }
 
         return dp[n];
