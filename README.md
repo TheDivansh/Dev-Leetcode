@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3693-climbing-stairs-ii](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0509-fibonacci-number) |
+| [3693-climbing-stairs-ii](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
 | ------- |
