@@ -1,6 +1,5 @@
 class Solution {
 public:
-        //Daily Q
     long long minimumCost(int cost1, int cost2, int costBoth, int need1, int need2) {
         long long min, max, ans;
         min = fmin(need1, need2);
