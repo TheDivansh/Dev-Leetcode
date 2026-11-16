@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0046-permutations) |
 | [0136-single-number](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0268-missing-number) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1254-number-of-closed-islands](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1254-number-of-closed-islands](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Graph Theory
