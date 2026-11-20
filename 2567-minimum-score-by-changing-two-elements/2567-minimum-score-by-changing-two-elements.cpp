@@ -1,37 +1,33 @@
 class Solution {
-    public:
-        int minimizeSum(vector<int>& nums) {
-            int max1 = INT_MIN, max2 = INT_MIN, max3 = INT_MIN;
-            int min1 = INT_MAX, min2 = INT_MAX, min3 = INT_MAX;
-
-                for (int num : nums) {
-                    if (num > max1){
-                       max3 = max2;
-                       max2 = max1;
-                       max1 = num;
-  }
-                    else if (num > max2) {
-                       max3 = max2;
-                       max2 = num;
- }
-                    else if (num > max3) max3 = num;
-
-               if (num < min1) {
-                   min3 = min2;
-                   min2 = min1;
-                   min1 = num;
-
+public:
+    int minimizeSum(vector<int>& nums) {
+        int s1 = INT_MAX, s2 = INT_MAX, s3 = INT_MAX, l1 = 0, l2 = 0, l3 = 0;
+        for(auto n: nums){
+            if(s1 > n) { 
+                s3 = s2; 
+                s2 = s1; 
+                s1 = n; 
 }
-             else if (num < min2) {
-                   min3 = min2;
-                   min2 = num;
+            else if(s2 > n) { 
+                s3 = s2; 
+                s2 = n; 
 }
-             else if (num < min3) min3 = num;
+            else if(s3 > n) { 
+                s3 = n; 
 }
-        int case1 = max3 - min1;
-        int case2 = max2 - min2;
-        int case3 = max1 - min3;
-
-return min({case1, case2, case3});
-   }
+            if(l1 < n) { 
+                l3 = l2; 
+                l2  = l1; 
+                l1 = n; 
+}
+            else if(l2 < n ) { 
+                l3 = l2; 
+                l2 = n; 
+}
+            else if(l3 < n ) { 
+                l3 = n; 
+}
+        }
+        return min({l1 - s3, l3 - s1, l2 - s2});
+    }
 };
