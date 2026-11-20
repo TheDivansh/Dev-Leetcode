@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2942-find-words-containing-character) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Tree
 |  |
