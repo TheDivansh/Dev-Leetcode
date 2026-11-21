@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2574-left-and-right-sum-differences](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2942-find-words-containing-character) |
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
