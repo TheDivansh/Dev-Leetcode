@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1844-replace-all-digits-with-characters](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/TheDivansh/Dev-Leetcode/tree/master/3110-score-of-a-string) |
