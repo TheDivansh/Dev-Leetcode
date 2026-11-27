@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0509-fibonacci-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2235-add-two-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0268-missing-number) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/TheDivansh/Dev-Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1254-number-of-closed-islands](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -229,5 +231,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2574-left-and-right-sum-differences](https://github.com/TheDivansh/Dev-Leetcode/tree/master/2574-left-and-right-sum-differences) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/TheDivansh/Dev-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
